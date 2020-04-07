@@ -1,0 +1,71 @@
+[
+    {
+        "id": 1,
+        "avatar":"1.png",
+        "clan": "internship",
+        "userHandle": "ashish",
+        "content":"Internshala is a dot com business with the heart of dot org. We are a technology company on a mission to equip students with relevant skills & practical exposure through internships and online trainings. Imagine a world full of freedom and possibilities. A world where you can discover your passion and turn it into your career. A world where your practical skills matter more than your university degree. A world where you do not have to wait till 21 to taste your first work experience (and get a rude shock that it is nothing like you had imagined it to be). A world where you graduate fully assured, fully confident, and fully prepared to stake claim on your place in the world.  At Internshala, we are making this dream a reality, join us! ",
+        "date":"2020-04-06T14:00:56.321+05:30"
+
+    },
+    {
+        "id": 2,
+        "avatar":"2.png",
+        "clan": "internship",
+        "userHandle": "archit",
+        "content":"We are urgently looking for Telecaller (Female only) for one of our prestigious client  Location: Noida, Sector 2  Experience: 0.6 months – 1 year\nSalary: 1.2 – 1.8 LPA \nWorking Days: 6 Days (10am – 6pm)",
+        "date":"2020-05-04T09:28:56.321+05:30"
+
+    },
+    {
+        "id": 3,
+        "avatar":"3.png",
+        "clan": "internship",
+        "userHandle": "aditya",
+        "content":"internship opputunity 3",
+        "date":"2020-04-04T09:28:56.321+05:30"
+    },
+    {
+        "id": 4,
+        "avatar":"1.png",
+        "clan": "internship",
+        "userHandle": "ashish",
+        "content":"internship opputunity 4",
+        "date":"2020-04-04T09:28:56.321+05:30"
+    },
+    {
+        "id": 5,
+        "avatar":"1.png",
+        "clan": "internship",
+        "userHandle": "ashish",
+        "content":"internship opputunity 1",
+        "date":"2020-04-04T09:28:56.321+05:30"
+    },
+    {
+        "id": 6,
+        "avatar":"2.png",
+        "clan": "internship",
+        "userHandle": "archit",
+        "content":"internship opputunity 2",
+        "date":"2020-04-04T09:28:56.321+05:30"
+    },
+    {
+        "id": 7,
+        "avatar":"3.png",
+        "clan": "internship",
+        "userHandle": "aditya",
+        "content":"internship opputunity 3",
+        "date":"2020-04-02T09:28:56.321+05:30"
+    },
+    {
+        "id": 8,
+        "avatar":"1.png",
+        "clan": "internship",
+        "userHandle": "ashish",
+        "content":"internship opputunity 4",
+        "date":"2020-04-05T09:28:56.321+05:30"
+    }
+
+
+
+]
