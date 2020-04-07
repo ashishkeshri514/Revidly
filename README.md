@@ -1,10 +1,10 @@
 1: Install packages
-run npm instll
+ run npm instll
 
 2: Run project
-run npm start
+ run npm start
 
 3: Open it
-go to http://localhost:3000
+ go to http://localhost:3000
 
 
