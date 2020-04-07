@@ -11,5 +11,5 @@
  go to:  http://localhost:3000
 
 
-![Image description](Revidly/ss1.png)
+![Image description](../ss1.png)
 
